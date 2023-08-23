@@ -1,0 +1,40 @@
+*{
+    margin-top: 0;
+}
+
+body {
+    background: rgb(15,18,125);
+    background: linear-gradient(90deg, rgba(15,18,125,1) 0%, rgba(6,140,135,0.9668242296918768) 0%, rgba(10,77,119,1) 100%);
+}
+
+.mydiv {
+    margin: 150px 900px 0 100px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.mydiv1 {
+    position: relative;
+    margin: 0 500px 0 500px;
+    bottom: 180px;
+    font-weight: bold;
+    color: white;
+}
+
+.mydiv2 {
+    color: white;
+    position: absolute;
+    margin: 0 100px 0 900px;
+    bottom: 110px;
+    font-weight: bold;
+    
+}
+.mydiv3 {
+    color: white;
+    position: absolute;
+    margin: 0 100px 0 900px;
+    bottom: -230px;
+    font-weight: bold;
+    
+}
